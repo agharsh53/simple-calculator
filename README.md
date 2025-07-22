@@ -21,7 +21,7 @@ A simple, fully functional calculator built using **HTML**, **CSS**, and **JavaS
 
 ## 🖼️ Preview
 
-![Calculator Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
+![Calculator Screenshot](Screenshot.png) <!-- Replace with your actual screenshot -->
 
 > Live demo: [Click here to try it out](https://agharsh53.github.io/simple-calculator)
 
